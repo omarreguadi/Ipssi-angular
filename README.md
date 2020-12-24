@@ -7,8 +7,8 @@ page  404 not found
 page detail produit
 
 
-npm install --save-dev @angular-devkit/build-angular
-npm audit fix 
+Run npm install --save-dev @angular-devkit/build-angular
+Run npm audit fix 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
