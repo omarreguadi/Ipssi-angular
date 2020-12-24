@@ -8,6 +8,8 @@ page detail produit
 
 
 Run npm install --save-dev @angular-devkit/build-angular
+
+
 Run npm audit fix 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
